@@ -1,0 +1,18 @@
+{
+    "name": "yuankezhan/yii-page-widget",
+    "description": "基于 yii widget 封装的 page",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "yuankezhan\\yiiPageWidget\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "zhc",
+            "email": "741698941@qq.com"
+        }
+    ],
+    "require": {}
+}
