@@ -19,7 +19,7 @@ composer require yuankezhan/yii-page-widget
         'count' => 100
     ])?>
 ```
-
+![输入图片说明](page.png)
 
 #### 使用说明
 
@@ -112,4 +112,3 @@ composer require yuankezhan/yii-page-widget
 ```
 
 
-![输入图片说明](%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20211201103848.png)
